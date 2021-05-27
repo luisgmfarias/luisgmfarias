@@ -39,11 +39,7 @@ I love working with Python and Data (in general) 🐍.
 - 🌱 I’m currently learning Data Analytics and API Development.  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
