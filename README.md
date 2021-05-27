@@ -1,4 +1,4 @@
-<img src="https://github.com/luisgmfarias/luisgmfarias/blob/master/presentation.gif" alt="Luís Farias Presentation"/>
+<img src="https://github.com/luisgmfarias/luisgmfarias/blob/master/presentation.gif" alt="Luís Farias - Presentation"/>
 
 ### Hi, I'm Luís Guilherme, a creative developer! Currently AI Software Engineer @ [Alana AI](https://alana.ai)
 My main professional projects consists in web development and web scrapping. I'm used to work with: **Python**, **Pandas**, **JS**, **React** and **Adobe XD**.
