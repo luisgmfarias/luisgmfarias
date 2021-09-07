@@ -30,7 +30,7 @@ I love working with Python and Data (in general) 🐍.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🧠 I’m currently working as AI Software Engineer at [Alana AI](https://alana.ai/).  
+- 🧠 I’m currently working as Software Engineer at [Exponential Ventures](https://xnv.io/).  
   
 
 - 🔭 Founder of [Datatrampos](https://datatrampos.com.br).  
