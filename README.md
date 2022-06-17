@@ -14,6 +14,8 @@
 
 <p ><img style="margin-top: 20px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisgmfarias&show_icons=true&theme=dracula&locale=en&layout=compact" alt="luisgmfarias" /></p>
 
+<br/>
+
 <p >&nbsp;<img align="center" style="margin-top: 20px;" src="https://github-readme-stats.vercel.app/api?username=luisgmfarias&show_icons=true&theme=dracula&locale=en" alt="luisgmfarias" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisgmfarias&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15" alt="luisgmfarias" /></a> </p>
