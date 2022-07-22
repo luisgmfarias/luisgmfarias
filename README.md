@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís Farias</h1>
 <h3 align="center">Startup enthusiast. Python and Web Developer.</h3>
 
-🔭 I’m currently working as Fullstack Engineer at [Exponential Ventures](https://xnv.io)
+🔭 I’m currently working as Fullstack Engineer at [Zenvia](https://zenvia.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
