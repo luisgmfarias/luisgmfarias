@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luís Farias</h1>
 <h3 align="center">Startup enthusiast. Python and Web Developer.</h3>
 
-🔭 I’m currently working as Frontend Engineer at [Zenvia](https://zenvia.com)
+🔭 I’m currently working as Software Engineer at [Zenvia](https://zenvia.com)
+💼 Founder of [Datatrampos](https://datatrampos.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
