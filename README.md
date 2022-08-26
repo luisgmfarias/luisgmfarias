@@ -2,6 +2,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/euodeiobug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisgmfarias) 
 ---
 
+#### About me:
+
 - 💻 I work as Software Engineer at [Zenvia](https://zenvia.com)<br/>
 - 📱 Content creator [@euodeiobug](https://instagram.com/euodeiobug)<br/>
 - 💼 Founder of [Datatrampos](https://datatrampos.com.br)
