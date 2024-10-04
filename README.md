@@ -4,7 +4,7 @@
 
 #### About me:
 
-- 💻 I work as Software Engineer at [Zenvia](https://zenvia.com)<br/>
+- 💻 I work as Software Engineer at <br/>
 - 📱 Content creator [@euodeiobug](https://instagram.com/euodeiobug)<br/>
 - 💼 Founder of [Datatrampos](https://datatrampos.com.br)
 
